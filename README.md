@@ -20,22 +20,6 @@ This project provides a visualization tool for comparing the performance of vari
 - JavaScript
 - Chart.js library
 
-## Installation
-
-1. **Clone the repository:**
-
-    ```bash
-    git clone https://github.com/your-username/cpu-scheduling-visualization.git
-    ```
-
-2. **Navigate to the project directory:**
-
-    ```bash
-    cd cpu-scheduling-visualization
-    ```
-
-3. **Open `index.html` in your preferred web browser.**
-
 ## Usage
 
 1. **Open `index.html`** in your browser.
